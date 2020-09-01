@@ -4,7 +4,7 @@
 ### Description
 Unity C# Project to have a ball roll around on the screen and collect pickup items for points
 
-#### [Unity Connect Link]()
+#### [Unity Connect Link](https://connect.unity.com/mg/other/roll-a-ball-32)
 
 ## Software
 ### Required Software
